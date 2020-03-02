@@ -1,3 +1,5 @@
 #Welcome to Git Sample#
 
-Sample pama
+Sample pamamok number 1
+
+Sample pamamok number 2
